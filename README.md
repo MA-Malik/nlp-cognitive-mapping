@@ -50,6 +50,7 @@ FILTERING
 OUTPUT
 ---------
 A clean cognitive map showing how concepts/entities relate across your PDFs.
+![cognitive_map_cleaned](https://github.com/user-attachments/assets/a73a1195-c9a9-4074-b483-25ddb4a109fe)
 
 
 
